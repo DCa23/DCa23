@@ -14,11 +14,15 @@ Fork of [ducky_interpreter](https://github.com/DCa23/ducky_interpreter) by [erne
 Basically i forked the project to make small adition, just to be able to load scripts in memory, for the arduino version that does not have a card reader.
 
 
+### Very old tools
+[Webtetris](https://github.com/DCa23/webtetris) Tetris that I coded when I was studying just for fun.
+
+[ClusterVideoConverter](https://github.com/DCa23/ClusterVideoConvert) Small script i modified for a class project. It was used to convert video format distributing the process among different cluster nodes.
+
 
 <!--
 
 
 TODO: Describe the projects by sections
 Utility tools
-Old tools
 -->
