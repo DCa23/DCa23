@@ -1,16 +1,15 @@
 ### Hi there 👋
 
+I'm a full stack engeener mostly focused on web development. My work is usually done in laravel and vue js.
+However this github account is not representative of my professional work, is just a set various tools/small personal projects related to personal interests related to tecnology.
+
+
+
+
+
 <!--
-**DCa23/DCa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+TODO: Describe the projects by sections
+Security
+Utility tools
+Miscelania
 -->
