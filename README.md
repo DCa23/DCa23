@@ -11,6 +11,10 @@ However this github account is not representative of my professional work, is ju
 
 Fork of [ducky_interpreter](https://github.com/DCa23/ducky_interpreter) by [ernexto-xload](https://github.com/ernesto-xload).
 
+### Laravel
+
+[Real time games](https://github.com/DCa23/laravel-realtime-games) Small project to play real time simple games using laravel, vue (inertiajs) with websockets.
+
 ### Miscelaneous tools
 [Database Comparer](https://github.com/DCa23/dbcomparer) A small tool I developed in order to see the difference betwen 2 databases, can be usefull if you need to see the difference in very similar databases for example 2 different staging enviorements from the same webapplication.
 
