@@ -15,6 +15,8 @@ Fork of [ducky_interpreter](https://github.com/DCa23/ducky_interpreter) by [erne
 
 [Real time games](https://github.com/DCa23/laravel-realtime-games) Small project to play real time simple games using laravel, vue (inertiajs) with websockets.
 
+[UrlShortener](https://github.com/DCa23/url-shortener) Very simple url shortener.
+
 ### Miscelaneous tools
 [Database Comparer](https://github.com/DCa23/dbcomparer) A small tool I developed in order to see the difference betwen 2 databases, can be usefull if you need to see the difference in very similar databases for example 2 different staging enviorements from the same webapplication.
 
