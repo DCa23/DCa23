@@ -18,6 +18,9 @@ Fork of [ducky_interpreter](https://github.com/DCa23/ducky_interpreter) by [erne
 [UrlShortener](https://github.com/DCa23/url-shortener) Very simple url shortener.
 
 ### Miscelaneous tools
+
+[AI Guidelines updater](https://github.com/DCa23/ai-guidelines-update) Small script to unify AI guidelines on teams that use different agents.
+
 [Database Comparer](https://github.com/DCa23/dbcomparer) A small tool I developed in order to see the difference betwen 2 databases, can be usefull if you need to see the difference in very similar databases for example 2 different staging enviorements from the same webapplication.
 
 [Guifi Manual](https://github.com/DCa23/Manual-Guifinet) A step by step manual on how to setup a debian machine as a router on guifi-net
